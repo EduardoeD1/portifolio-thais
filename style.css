@@ -1,0 +1,27 @@
+.dic {
+
+  background-color: rgba(255, 255, 255, 0.8); /* fundo branco transparente */
+  color: #333;
+  padding: 12px 24px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 25px;
+  font-weight: bold;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  border: 2px solid #f9c74f;
+  transition: all 0.3s ease;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+ margin-left: 150px;
+ margin-right: 150px;
+
+  
+
+
+
+}
+  .dic:hover {
+  background-color: #f9c74f;
+  color: white;
+}
